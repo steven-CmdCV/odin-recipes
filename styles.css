@@ -1,0 +1,26 @@
+body {
+  font-family: fantasy, "Times New Roman", Serif, sans-serif, monospace;
+  background-color: #ff7b19;
+  color: white;
+  margin-left: 20px;
+  box-sizing: border-box;
+}
+
+li {
+  margin: 5px;
+}
+
+h1 {
+  font-size: 60px;
+  margin-top: 15px;
+  margin-bottom: -5px;
+}
+
+h4 {
+  margin-top: 50px;
+}
+
+.image {
+  margin-left: 5px;
+  margin: 20px;
+}
